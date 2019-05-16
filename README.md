@@ -7,5 +7,5 @@ Using Opencv I have created a program which detects and counts the number of fin
 3.) Numpy </br>
 4.) Scikit-Learn </br>
 
-If you are using python2, run python2.sh </br>
-Else run python3.sh
+If you are using python2, run '''python2.sh''' </br>
+Else run '''python3.sh'''
