@@ -16,6 +16,6 @@ Convex HUll : http://article.sapub.org/10.5923.j.ajis.20160602.03.html </br>
 HOG : https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf
 
 # Installation Steps
-1.) Clone the github repository
+1.) Clone the github repository</br>
 2.) Run the package shell scipts </br>
 3.) The executible file is in dist folder  
